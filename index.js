@@ -29,7 +29,7 @@
 let verificacionusuario1 = "admin1";
 let verificacioncontraseña1 = "123456";
 let verificacionusuario2 = "admin";
-let verificacioncontraseña2 = "admin1234";
+let verificacioncontraseña2 = "admin1234"; 
 
 // Aquí almacenaríamos las sesiones activas. Puedes usar localStorage o sesiones del lado del servidor
 let sesionesActivas = [];
